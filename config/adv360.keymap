@@ -82,9 +82,9 @@
             bindings = <
  &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5              &trans                                                                        &mo 3  &kp N6  &kp KP_NUM  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp MINUS
    &kp TAB      &kp Q     &kp W     &kp E      &kp R   &kp T               &none                                                                       &none   &kp Y   &kp EXCL      &kp AT        &kp HASH     &kp KP_MINUS   &kp BSLH
-   &kp ESC      &kp A     &kp S     &kp D      &kp F   &kp G               &none  &kp LCTRL  &kp LALT                        &kp LGUI  &kp RCTRL       &none   &kp H   &kp DLLR     &kp PRCNT      &kp CARET      &kp KP_PLUS    &kp SQT
+   &kp ESC      &kp A     &kp S     &kp D      &kp F   &kp G               &none  &kp F7  &kp LALT                        &kp LGUI  &kp RCTRL       &none   &kp H   &kp DLLR     &kp PRCNT      &kp CARET      &kp KP_PLUS    &kp SQT
  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                                 &kp HOME                        &kp PG_UP                         &kp N   &kp AMPS     &kp STAR      &kp KP_N3     &kp KP_ENTER  &kp RSHFT
-     &mo 2  &kp GRAVE  &kp LALT  &kp LEFT  &kp RIGHT                     &mt LGUI SPACE  &kp BSPC  &mt LC(LA(LGUI)) ENTER    &kp RGUI  &kp ENTER  &kp KP_N0              &kp LPAR      &kp RPAR     &kp UNDER       &kp PIPE      &mo 2
+     &mo 2  &kp GRAVE  &kp LALT  &kp LEFT  &kp RIGHT                     &kp F9   &kp F10    &kp F8                          &kp RGUI  &kp ENTER  &kp KP_N0            &kp LPAR      &kp RPAR     &kp UNDER       &kp PIPE      &mo 2
             >;
         };
 
